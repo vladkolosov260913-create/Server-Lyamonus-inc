@@ -1,0 +1,3 @@
+Lyamonus inc. server: the file was created to check the activation and operation of the server.
+
+The server is owned by Lyamonus inc. This server is specifically for the following programs: LyamRails, Railway trains simulator, Railway trains simulator 2 and LyamOs.
